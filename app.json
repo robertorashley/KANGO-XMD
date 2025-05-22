@@ -12,8 +12,8 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Adiza session id here; must start with QUEEN-ADIZA~",
-      "value": "",
-      "required": false
+      "value": "KANGO~UzVTEBxC#ad1dRIxh2g8uq-VoMixRkC7mVgdM9mYImsa4TD5PS04",
+      "required": true
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
@@ -22,12 +22,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "256784391777",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Robert",
       "required": true
     },
     "STICKER_PACK_NAME": {
