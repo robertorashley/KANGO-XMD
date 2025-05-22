@@ -10,18 +10,18 @@
 "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with KANGO~, or get session id from here, https://adiza-session.onrender.com",
-        "value":"",
+        "value":"KANGO~UzVTEBxC#ad1dRIxh2g8uq-VoMixRkC7mVgdM9mYImsa4TD5PS04",
         "required": true
         
         },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "256784391777",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Robert",
       "required": true
     },
     "STICKER_PACK_NAME": {
