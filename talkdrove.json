@@ -10,7 +10,7 @@
 "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with KANGO~, or get session id from here, https://adiza-session.onrender.com",
-        "value":"KANGO~UzVTEBxC#ad1dRIxh2g8uq-VoMixRkC7mVgdM9mYImsa4TD5PS04",
+        "KANGO~p7U2jKKT#RTD3O_YOQebT6jE2Svp4lK07__8f25yJsOh5plrBic0",
         "required": true
         
         },
